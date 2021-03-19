@@ -1,0 +1,16 @@
+Discord Bot - "@everyone Counter"
+by Laikaru 3/19/2021
+Originally created 2/24/2021
+
+Objective:
+> Count and display the number of times someone uses an "@everyone" in a Discord server.
+> Anytime someone uses "@everyone", the bot will activate and respond.
+  - ""@everyone" has been said [X] times!"
+
+In the last line of the code, that's where you will put your bot Token.
+Feel free to modify this however you like! ♡ ♡ ♡
+
+Things to add eventually:
+> Ability to read previous messages? Look for prior @everyone's to count
+  - Only counts the ones it sees AFTER it's been added.
+> Figure out how to upload so it's a live Discord bot lol
